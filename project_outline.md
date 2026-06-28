@@ -1,6 +1,6 @@
 # Encyclopeda Ambura V2.0
 
-After the failure to get momentum with the initial Encyclopedia Ambura built on Jekyll, I'm back to doing things the old-fashioned way - for now, anyway. 
+We are building a directory-type structure to organize information. Each page and any subpages is contained in it's own folder, except for main.html.
 
 ## Site Structure
 
@@ -9,7 +9,7 @@ main.html links to three different pages:
 - Bestiary (bestiary.html)
 - Atlas (atlas.html)
 
-Each of these pages contains a list of subpages. We are building a directory-type structure to organize information. Each page and any subpages is contained in it's own folder, except for main.html. 
+Each of these pages contains a list of subpages.  
 
 There is also a page titled dmg.html, which is NOT linked from main.html. 
 
